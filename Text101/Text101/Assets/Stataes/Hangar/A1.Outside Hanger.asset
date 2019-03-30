@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 579fe53e2fa2cbe4fb083ef53d68912f, type: 3}
+  m_Name: A1.Outside Hanger
+  m_EditorClassIdentifier: 
+  storyText: "First coule of sentences\r\n\r\nHere are the 2 choices:\r\na.take first
+    one\r\nb.take second one\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3807cb8bb46cfb04cb0dedaf52eb5eb2, type: 2}
+  - {fileID: 11400000, guid: 145245813a48f5642b3b347d67f6ecd5, type: 2}
